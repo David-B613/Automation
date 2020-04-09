@@ -1,0 +1,13 @@
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\bin\Debug\netcoreapp3.1\FileMonitor.exe
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\bin\Debug\netcoreapp3.1\FileMonitor.deps.json
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\bin\Debug\netcoreapp3.1\FileMonitor.runtimeconfig.json
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\bin\Debug\netcoreapp3.1\FileMonitor.runtimeconfig.dev.json
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\bin\Debug\netcoreapp3.1\FileMonitor.dll
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\bin\Debug\netcoreapp3.1\FileMonitor.pdb
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\obj\Debug\netcoreapp3.1\FileMonitor.csprojAssemblyReference.cache
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\obj\Debug\netcoreapp3.1\FileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\obj\Debug\netcoreapp3.1\FileMonitor.AssemblyInfoInputs.cache
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\obj\Debug\netcoreapp3.1\FileMonitor.AssemblyInfo.cs
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\obj\Debug\netcoreapp3.1\FileMonitor.dll
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\obj\Debug\netcoreapp3.1\FileMonitor.pdb
+C:\Users\baber\Documents\GitHub\Automation\FileMonitor\obj\Debug\netcoreapp3.1\FileMonitor.genruntimeconfig.cache
